@@ -1,0 +1,25 @@
+{
+  "name": "cloud-drive-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas-woo/cloud-drive-lambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lucas-woo/cloud-drive-lambda/issues"
+  },
+  "homepage": "https://github.com/lucas-woo/cloud-drive-lambda#readme",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.1126.0",
+    "sharp": "^0.35.4"
+  }
+}
